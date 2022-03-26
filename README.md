@@ -58,3 +58,12 @@ The episode terminates if any one of the following occurs:
 ```
 gym.make('CartPole-v1')
 ```
+
+## Instructions
+
+* Follow the instructions in [`Hill_Climbing.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v1-HillClimbing/blob/main/Hill_Climbing.ipynb) to train and run the agent!
+```
+git clone https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v1-HillClimbing.git
+cd OpenAI-Gym-MountainCar-v0-CrossEntropy
+```
+Use jupyter notebook to open [`Hill_Climbing.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-MountainCar-v1-HillClimbing/blob/main/Hill_Climbing.ipynb).
