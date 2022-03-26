@@ -1,4 +1,4 @@
-# OpenAI-Gym-MountainCar-v1-HillClimbing
+# OpenAI-Gym-CartPole-v1-HillClimbing
 ## Implement hill-climbing method in policy based methods with adaptive noise scaling
 
 [Gym Environment](https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py)
